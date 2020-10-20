@@ -34,6 +34,6 @@ Hey! Welcome to my profile! How is it going? <br>
     </a> 
     
    <a href="https://www.linkedin.com/in/bruno-alarc%C3%A3o-271253103/">
-    <img src="linkedin@3x.png" alt="LinkedIn" style="vertical-align:top; margin:6px 4px; size:14px">
+    <img src="https://img.shields.io/badge/LinkedIn-Reach%20Me!-informational" alt="LinkedIn" style="vertical-align:top; margin:6px 4px; size:14px">
     </a> 
 </p>
