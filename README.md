@@ -1,9 +1,9 @@
 
-
+<p align="center">
 Hey! Welcome to my profile! How is it going? <br>
 🚀 I’m currently working at UnixTech <br>
 💻 Node, ReactJS, React Native, Typescript <br>
-
+</p>
 <img src="https://appsmaventech.com/images/blog/The-Evolution-Of-Web-Development-Via-Machine-Learning.jpg" alt="development" style="vertical-align:top; margin:6px 4px; horizontal-align:right;">
 
 <p size=24px align="center">
