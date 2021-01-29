@@ -1,5 +1,5 @@
 
-<p align="center">
+<p size=24px align="center">
 Hey! Welcome to my profile! How is it going? <br>
 💻  I’m currently working with these techs:  <br>
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" style="vertical-align:top; margin:6px 4px; size:14px"> <br>
