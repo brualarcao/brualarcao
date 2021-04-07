@@ -2,11 +2,10 @@
 <p size=24px align="center">
 Hey! Welcome to my profile! How is it going? <br>
 💻  I’m currently working with these techs:  <br>
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" style="vertical-align:top; margin:6px 4px; size:14px"> <br>
+
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" style="vertical-align:top; margin:6px 4px; size:14px"> <br>
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactNative" style="vertical-align:top; margin:6px 4px; size:14px">  <br>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" style="vertical-align:top; margin:6px 4px; size:14px">  <br>   
-<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="ExpressJS" style="vertical-align:top; margin:6px 4px; size:14px"> <br>
 
 </p>
 
